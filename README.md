@@ -73,10 +73,10 @@
 Feel free to reach out for collaborations, discussions on AI/CV, or software engineering roles!
 
 <div align="left">
-  <a href="mailto:abdulah.naeem@outlook.com">
+  <a href="mailto:abdulah.naeem@outlook.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/abdulah-naeem">
+  <a href="https://linkedin.com/in/abdulah-naeem" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
