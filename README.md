@@ -52,12 +52,20 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulah-naeem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Abdullah's GitHub Stats" />
+  <!-- Highly stable GitHub Activity Line Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulah-naeem&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Abdullah's Activity Graph" />
+  
   <br /><br />
+  
+  <!-- Your flawlessly working Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulah-naeem&theme=radical&hide_border=true&background=0D1117" alt="Abdullah's GitHub Streak" />
+  
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulah-naeem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  
+  <!-- High availability Profile Summary Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulah-naeem&theme=radical" alt="GitHub Profile Summary" />
 </div>
+
 
 ---
 
@@ -65,10 +73,10 @@
 Feel free to reach out for collaborations, discussions on AI/CV, or software engineering roles!
 
 <div align="left">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:abdulah.naeem@outlook.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://linkedin.com/in/abdulah-naeem">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
